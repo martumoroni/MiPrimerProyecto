@@ -1,0 +1,17 @@
+/*Aplicando CSS de forma externa*/
+/*Selectores para aplicar CSS a los elementos
+    1- Etiquetas
+    2- ID - Con #(sólo lo que tenga ese ID va a asumir esa caracteristica)
+    3- Clases - Con . (punto) - (a cada elemento se le asigna una clase, y asumen esas caracteristicas)*/
+
+/* Etiqueta o ID o Clase{ 
+    Propiedad : Valor
+}
+*/
+
+body{
+    background-color: rgb(134, 255, 255);
+}
+.destacado2{
+    color: chocolate;
+}
